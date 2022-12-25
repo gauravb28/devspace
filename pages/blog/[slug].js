@@ -23,11 +23,11 @@ const PostPage = ({
 
         <div className="flex justify-between items-center bg-gray-100 p-2 my-8">
           <div className="flex items-center">
-            <img
+            {/* <img
               src={author_image}
               alt=""
               className="mx-4 w-10 h-10 object-cover rounded-full hidden sm:block"
-            />
+            /> */}
             <h4>{author}</h4>
           </div>
           <div className="mr-4">{date}</div>

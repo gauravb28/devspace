@@ -2,11 +2,11 @@ import Link from 'next/link';
 
 const CategoryLabel = ({ children }) => {
   const colorKey = {
-    JavaScript: 'yellow',
-    CSS: 'blue',
-    Python: 'green',
-    PHP: 'purple',
-    Ruby: 'red',
+    Business: 'yellow',
+    Finance: 'blue',
+    Products: 'green',
+    Soft_Skills: 'purple',
+    Economics: 'red',
   };
 
   return (

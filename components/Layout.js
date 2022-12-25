@@ -20,9 +20,9 @@ const Layout = ({ title, keywords, description, children }) => {
 };
 
 Layout.defaultProps = {
-  title: 'Welcome to DevSpace',
-  keywords: 'development, coding, programming',
-  description: 'The best info and news in development',
+  title: 'Welcome to eCell NSUT Blogs',
+  keywords: 'entrepreneurship, finance, startups, economics',
+  description: 'The best info and news in entrepreneurship',
 };
 
 export default Layout;

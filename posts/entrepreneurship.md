@@ -1,5 +1,5 @@
 ---
-title: 'Entrepreneurship'
+title: 'Entrepreneurship & Entrepreneurs'
 date: 'November 3, 2022'
 excerpt: 'Entrepreneurship is the process of starting and running a business venture, especially when this involves taking financial risks.'
 cover_image: '/images/posts/entrepreneurship.png'

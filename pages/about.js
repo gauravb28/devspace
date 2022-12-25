@@ -11,6 +11,8 @@ const AboutPage = () => {
           This is a blog platform built by eCell NSUT to impart some insights
           into the crucial aspects regarding entrepreneurship, product
           management, finance, economics as well as self growth.
+          <br />
+          <a target={'_blank'} href='https://ecellnsut.in'>Visit our main <span className='text-blue-500'>website</span> to learn more.</a>
         </p>
 
         <p>

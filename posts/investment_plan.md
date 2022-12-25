@@ -1,6 +1,6 @@
 ---
 title: 'Investment Plan'
-date: 'December 15, 2022'
+date: 'November 31, 2022'
 excerpt: 'Inflation measures how much more expensive a set of goods and services has become over a certain period, usually a year.'
 cover_image: '/images/posts/investment_plan.png'
 category: 'Finance'

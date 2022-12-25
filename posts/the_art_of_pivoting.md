@@ -1,5 +1,5 @@
 ---
-title: 'The Art of Pivoting'
+title: 'The Art of Pivoting - What are business pivots?'
 date: 'December 7, 2022'
 excerpt: 'Fundamentally, pivoting is changing the direction of a business when something just doesn’t seem to be working.'
 cover_image: '/images/posts/the_art_of_pivoting.jpg'

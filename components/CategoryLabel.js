@@ -4,7 +4,7 @@ const CategoryLabel = ({ children }) => {
   const colorKey = {
     Business: 'yellow',
     Finance: 'blue',
-    Products: 'green',
+    Product: 'green',
     Soft_Skills: 'purple',
     Economics: 'red',
   };

@@ -2,7 +2,7 @@
 title: 'Complete Guide to start a startup'
 date: 'December 18, 2022'
 excerpt: 'The term startup refers to a company in the very initial stages of its operations.'
-cover_image: '/images/posts/how_to_start_startup.png'
+cover_image: '/images/posts/how_to_start_startup.PNG'
 category: 'Product'
 author: 'Harsh Kumar'
 author_image: 'https://randomuser.me/api/portraits/men/12.jpg'

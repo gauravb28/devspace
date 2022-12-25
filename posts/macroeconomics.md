@@ -2,7 +2,7 @@
 title: 'Macroeconomics'
 date: 'November 20, 2022'
 excerpt: 'Macroeconomics is the study of how an entire economy—markets, corporations, consumers, and governments—behaves.'
-cover_image: '/images/posts/macroeconomics.png'
+cover_image: '/images/posts/macroeconomics.PNG'
 category: 'Economics'
 author: 'Binit and Shashwat'
 author_image: 'https://randomuser.me/api/portraits/men/12.jpg'
